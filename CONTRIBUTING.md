@@ -30,9 +30,9 @@ Step 2 : Show some love by clicking on "FOLLOW" (Clickbait 😂)
 
 Step 3 : Fork this project by clicking on "FORK"
 
-Step 4 : Create a JSON data inside "Contributors" folder . Generate the JSON data same as given in demo :)
+Step 4 : Add any program you know :)
 
-Step 5 : After filling the details. Click on "Commit Changes"
+Step 5 : After filling just Click on "Commit Changes"
 
 Step 6 : Create a Pull request that's it.
 

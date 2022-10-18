@@ -1,0 +1,33 @@
+
+	Following is the Node class already written for the Linked List
+
+	class LinkedListNode<T> {
+    	T data;
+    	LinkedListNode<T> next;
+    
+    	public LinkedListNode(T data) {
+        	this.data = data;
+    	}
+	}
+
+public class Solution {
+    public static void print(int Node)
+    {
+        System.out.print(Node+" ");
+    }
+
+	public static void printReverse(LinkedListNode<Integer> root) 
+    {   
+        //recursive approach
+        if(root==null)
+        {
+            //System.out.print(root.data+" ");
+            return;
+        }
+        
+        printReverse(root.next);
+        print(root.data);
+        
+	}
+
+}
